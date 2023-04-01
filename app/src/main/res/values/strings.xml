@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="youtube">Youtube</string>
+    <string name="_30_min">30 min</string>
+    <string name="back_image">back image</string>
+    <string name="fav_image">Fav image</string>
+    <string name="category_name">Category name</string>
+    <string name="clock_image">clock image</string>
+    <string name="calories">calories</string>
+    <string name="_245_cal">245 cal</string>
+    <string name="how_much">how much</string>
+    <string name="_3_person">3 person</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+</resources>

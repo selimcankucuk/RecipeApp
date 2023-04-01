@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FF9A00</color>
+    <color name="brown">#433232</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tin_grey">#E4E1E1</color>
+    <color name="pink">#FF9393</color>
+    <color name="grey">#302E2E</color>
+    <color name="hint">#787878</color>
+    <color name="transparent">#00000000</color>
+    <color name="youtube">#D51818</color>
+
+</resources>
